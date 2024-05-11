@@ -8,7 +8,7 @@ function Lovestreet() {
     <div className="App">
       <header className="App-header-english-list pt-2">
        
-        <h5 className='fst-italic mb-2'> love street (the doors) </h5>
+        <h5 className='fst-italic'> love street (the doors) </h5>
 
         <section 
           style={{ height:"600px" }}

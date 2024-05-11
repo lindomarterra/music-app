@@ -33,10 +33,57 @@ function EnglishList() {
             >
               perfect day (lou reed)
           </Link>
+
+          <Link
+            to='/heavensDoor'
+            target='_self'
+            className='text-decoration-none fw-bold text-white p-2 '
+            >
+              knocking on heaven's door (bob dylan)
+          </Link>
+
+          <Link
+            to='/sunseed'
+            target='_self'
+            className='text-decoration-none fw-bold text-white p-2 '
+            >
+              sunssed (raul seixas)
+          </Link>
+
+          <Link
+            to='/inBetweenDays'
+            target='_self'
+            className='text-decoration-none fw-bold text-white p-2 '
+            >
+              in between days (the cure)
+          </Link>
+
+          <Link
+            to='/cameAsYouAre'
+            target='_self'
+            className='text-decoration-none fw-bold text-white p-2 '
+            >
+              came as you are (nirvana)
+          </Link>
+
+          <Link
+            to='/hurt'
+            target='_self'
+            className='text-decoration-none fw-bold text-white p-2 '
+            >
+              hurt (johnny cash)
+          </Link>
+
+          <Link
+            to='/theManHeSoldTheWorld'
+            target='_self'
+            className='text-decoration-none fw-bold text-white p-2 '
+            >
+              the man he sold the world (david bowie)
+          </Link>
       
         
-          
-          
+                    
         </section>
 
         

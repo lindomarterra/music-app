@@ -6,7 +6,7 @@ function perfectDay() {
   return (
     <div className="App">
       <header className="App-header-english-list pt-2">
-        <h5 className="fst-italic mb-2"> perfect day (lou reed) </h5>
+        <h5 className="fst-italic"> perfect day (lou reed) </h5>
 
         <section
           style={{ height: "600px" }}
