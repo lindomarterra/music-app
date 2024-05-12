@@ -12,6 +12,10 @@ import Hurt from './components/lirics/allMusics/hurt'
 import TheManHeSoldTheWorld from "./components/lirics/allMusics/theManHeSoldTheWorld"
 import HowCouldIKnow from "./components/lirics/allMusics/howCouldIKnow"
 import Linger from "./components/lirics/allMusics/linger"
+import MeltWithYou from "./components/lirics/allMusics/iMeltWithYou"
+import ZiggyStardust from "./components/lirics/allMusics/ziggyStardust"
+import KarmaChameleon from "./components/lirics/allMusics/karmaChameleon"
+
 
 function AppRoutes(){
 
@@ -31,14 +35,9 @@ function AppRoutes(){
                 <Route path='/theManHeSoldTheWorld' element={<TheManHeSoldTheWorld/>} ></Route>
                 <Route path='/howCouldIKnow' element={<HowCouldIKnow/>} ></Route>
                 <Route path='/linger' element={<Linger/>} ></Route>
-
-
-
-
-
-
-
-
+                <Route path='/iMeltWithYou' element={<MeltWithYou/>} ></Route>
+                <Route path='/ziggyStardust' element={<ZiggyStardust/>} ></Route>
+                <Route path='/karmaChameleon' element={<KarmaChameleon/>} ></Route>
 
             </Routes>
         </BrowserRouter>

@@ -97,6 +97,30 @@ function EnglishList() {
             >
               linger (the cranberries)
           </Link>
+
+          <Link
+            to='/iMeltWithYou'
+            target='_self'
+            className='text-decoration-none fw-bold text-white p-2 '
+            >
+              i melt with you (modern english)
+          </Link>
+
+          <Link
+            to='/ziggyStardust'
+            target='_self'
+            className='text-decoration-none fw-bold text-white p-2 '
+            >
+              ziggy stardust (david bowie)
+          </Link>
+
+          <Link
+            to='/karmaChameleon'
+            target='_self'
+            className='text-decoration-none fw-bold text-white p-2 '
+            >
+              karma chameleon (culture club)
+          </Link>
       
         
                     
