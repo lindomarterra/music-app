@@ -10,6 +10,8 @@ import InBetweenDays from "./components/lirics/allMusics/inBetweenDays"
 import CameAsYouAre from "./components/lirics/allMusics/cameAsYouAre"
 import Hurt from './components/lirics/allMusics/hurt'
 import TheManHeSoldTheWorld from "./components/lirics/allMusics/theManHeSoldTheWorld"
+import HowCouldIKnow from "./components/lirics/allMusics/howCouldIKnow"
+import Linger from "./components/lirics/allMusics/linger"
 
 function AppRoutes(){
 
@@ -27,6 +29,11 @@ function AppRoutes(){
                 <Route path='/CameAsYouAre' element={<CameAsYouAre/>} ></Route>
                 <Route path='/hurt' element={<Hurt/>} ></Route>
                 <Route path='/theManHeSoldTheWorld' element={<TheManHeSoldTheWorld/>} ></Route>
+                <Route path='/howCouldIKnow' element={<HowCouldIKnow/>} ></Route>
+                <Route path='/linger' element={<Linger/>} ></Route>
+
+
+
 
 
 

@@ -81,14 +81,27 @@ function EnglishList() {
             >
               the man he sold the world (david bowie)
           </Link>
+
+          <Link
+            to='/howCouldIKnow'
+            target='_self'
+            className='text-decoration-none fw-bold text-white p-2 '
+            >
+              how could i know (raul seixas)
+          </Link>
+
+          <Link
+            to='/linger'
+            target='_self'
+            className='text-decoration-none fw-bold text-white p-2 '
+            >
+              linger (the cranberries)
+          </Link>
       
         
                     
         </section>
-
         
-
-    
 
         <div className='mt-5'>
             <Link 
